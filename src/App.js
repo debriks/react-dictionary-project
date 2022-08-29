@@ -9,7 +9,7 @@ import "./App.css";
 export default function App() {
   return (
     <div className="App">
-      <div className="container d-flex justify-content-center">
+      <div className="container d-flex justify-content-center flex-column align-items-center">
         <Header />
         <SearchEngine />
         <Definition />
