@@ -22,17 +22,3 @@ a:visited,
 a:hover {
   text-decoration: none;
 }
-
-body h1 {
-  font-size: 60px;
-  margin-top: 55px;
-  padding-bottom: 12px;
-  padding-left: 250px;
-  padding-right: 250px;
-}
-
-.Title {
-  display: block;
-  margin: 0 auto;
-  border-bottom: 3px solid black;
-}
