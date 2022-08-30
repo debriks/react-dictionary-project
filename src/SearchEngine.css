@@ -8,6 +8,10 @@ input {
   font-size: 30px;
 }
 
+::placeholder {
+  color: black;
+}
+
 body button {
   border: none;
   border: 2px solid black;

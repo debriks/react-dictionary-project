@@ -1,0 +1,17 @@
+.Results {
+  border: 2px solid black;
+  border-radius: 30px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-bottom: 50px;
+  margin-top: -2px;
+  max-width: 880px;
+}
+
+.Results h2 {
+  margin-top: 25px;
+}
+
+.Results p {
+  font-size: 25px;
+}
